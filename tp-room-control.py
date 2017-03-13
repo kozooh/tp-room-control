@@ -20,7 +20,7 @@ import log
 
 wLock = Lock()
 
-host = 'IP_ADDR'
+host = 'IP_ADDR_OF_TELEPRESENCE_ENDPOINT'
 user = 'LOGIN'
 password = 'PASSWORD'
 
