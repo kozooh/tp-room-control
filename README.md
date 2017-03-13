@@ -1,7 +1,7 @@
 # TelePresence In-Room Control
 
 ## Getting started
-This is a sample script to show how to deal with Cisco API for in-room control of MX200 G2, MX300 G2, MX700, MX800, SX10, SX20, SX80 codecs. That particular example switch between 2 monitors (video view is replaced by a presentation) when the presentation is shared. When the presentation is off, monitors switch again to default roles.
+This is a sample script to show how to deal with Cisco API for in-room control of MX200 G2, MX300 G2, MX700, MX800, SX10, SX20, SX80 codecs. That particular example switch between 2 monitors (video view is replaced with a presentation view) when the presentation is shared. When the presentation is off, monitors switch again to default roles.
 
 ### Prerequisities
 ```
